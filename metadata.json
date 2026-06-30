@@ -1,0 +1,6 @@
+{
+  "name": "ThaiPaws",
+  "description": "An interactive adoption and charity platform linking animal foundations and loving homes across Thailand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
